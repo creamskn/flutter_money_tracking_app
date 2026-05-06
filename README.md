@@ -1,5 +1,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="300" height="2796" alt="localhost_53594_(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/820d336a-58cd-4a67-997f-f2571bc24950" />
+<img width="300" height="250" alt="localhost_53594_(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/820d336a-58cd-4a67-997f-f2571bc24950" />
 <br/><br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="300" height="2796" alt="localhost_54696_(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/addc26da-daa5-45af-8343-351306e884e7" />
